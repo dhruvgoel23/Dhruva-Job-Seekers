@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive architectural implementation plan for Dhruva - The Unified Job Operating System. Covers Phase 1 (Auth, OTP with timer/rate-limiting, Job Seeker & Company onboarding, AI resume parsing, in-app resume builder, real webcam biometric face liveness & ID verification, location sharing) with an Apple HIG-inspired design system, switchable mobile device frame & desktop company dashboard, dual INR/USD currency listings, and end-to-end data models.",
+  "updatedAt":  "2026-10-23T05:30:42.346952931Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

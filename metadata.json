@@ -1,0 +1,6 @@
+{
+  "name": "Dhruva - Unified Job Operating System",
+  "description": "An all-in-one job discovery, identity-verified hiring, and career operating system for job seekers and companies with Apple-inspired design.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
